@@ -1,7 +1,7 @@
 #include <matplot/matplot.h>
 #include <iostream>
 #define _USE_MATH_DEFINES
-#include <math.h>
+#include <math.h> //1234
 using namespace std;
 void generateSinusoidalSignal(double frequency, double duration) {
     const double samplingRate = 10000.0; // więcej tego bardziej dokładny wykres (nie wiesz daj na 10 to ogarniesz o co chodzi)
